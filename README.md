@@ -1,2 +1,1 @@
-A collection of Python scripts designed to automate warehouse inventory levels and dynamic retail pricing logic.
-This repository contains two core utility scripts that work together to manage stock and pricing strategies based on current inventory levels.
+This repository features a collection of Python scripts focused on core programming fundamentals, specifically exploring built-in and user-defined functions, list manipulation, and looping structures.
